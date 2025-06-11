@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: westeus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 62e87a0b-e63f-4025-be07-90cdbe05aa51eshoponweb-webapp52103374c
+  SUBSCRIPTION-ID: 62e87a0b-e63f-4025-be07-90cdbe05aa51
   WEBAPP-NAME: eshoponweb-webapp52103374
 
 
